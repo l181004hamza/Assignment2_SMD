@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment2_SMD</string>
+    <string name="title">Alphabets(ABC)</string>
+    <string name="author_name">Author Name: Hamza Riaz</string>
+    <string name="roll_no">Roll No: 18L-1004</string>
+    <string name="description">Stands for:</string>
+    <string name="next">NEXT -></string>
+    <string name="end">END HERE</string>
+    <string name="start">START</string>
+    <string name="last">This is the Last Page</string>
+</resources>
